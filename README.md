@@ -16,6 +16,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
