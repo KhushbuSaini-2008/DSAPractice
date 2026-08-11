@@ -75,4 +75,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
