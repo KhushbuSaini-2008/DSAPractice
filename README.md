@@ -9,6 +9,7 @@
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -48,12 +49,14 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0142-linked-list-cycle-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
