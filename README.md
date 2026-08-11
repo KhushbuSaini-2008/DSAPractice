@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
@@ -12,6 +13,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
@@ -44,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0142-linked-list-cycle-ii) |
 | [3731-find-missing-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -79,6 +82,15 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0052-n-queens-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
