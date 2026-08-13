@@ -45,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
