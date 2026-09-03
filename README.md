@@ -51,6 +51,7 @@
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Hash Table
 |  |
@@ -109,11 +110,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -142,4 +145,5 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
