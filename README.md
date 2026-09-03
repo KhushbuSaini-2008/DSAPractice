@@ -53,6 +53,7 @@
 | [0234-palindrome-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
