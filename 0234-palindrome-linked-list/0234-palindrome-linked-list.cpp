@@ -10,59 +10,63 @@
  */
 class Solution {
 public:
-int getlength(ListNode *&head){
-    ListNode* temp=head;
-    int count=0;
-    while(temp!=NULL){
-        count++;
-        temp=temp->next;
-    }
-    return count;
-}
-ListNode* midofll(ListNode* head){
+ListNode* findmid(ListNode* head){
     ListNode* slow=head;
     ListNode* fast=head;
-    while(fast!=NULL && fast->next!=NULL){
+    while(fast!=NULL&& fast->next!=NULL){
         slow=slow->next;
         fast=fast->next->next;
     }
     return slow;
 }
-
-ListNode * reverseofll(ListNode* head){
-    ListNode* prev=NULL;
+ListNode* reverseLinkedList(ListNode* head){
     ListNode* curr=head;
+    ListNode* prev=NULL;
     while(curr!=NULL){
         ListNode* forword=curr->next;
         curr->next=prev;
         prev=curr;
         curr=forword;
     }
-    return prev;
+return prev;
+}
+int length(ListNode* head ){
+    ListNode* temp=head;
+    int count=0;
+    while(temp!=NULL){
+count++;
+temp=temp->next;
+    }
+    return count;
 }
     bool isPalindrome(ListNode* head) {
-        if(head==NULL || head->next==NULL){
+        if(head==NULL && head->next==NULL){
             return true;
         }
-        int length=getlength(head);
-    ListNode* mid=midofll(head);
-ListNode* finalmid=NULL;
-if(length&1){
-    finalmid=mid->next;
-}
-else{
-    finalmid=mid;
-}
-ListNode* reverse=reverseofll(finalmid);
-ListNode*temp=head;
-while(temp!=NULL && reverse!=NULL){
-    if(temp->val!=reverse->val){
-        return false;
-    }
-    temp=temp->next;
-    reverse=reverse->next;
-}
-return true;
+        //find mid
+
+        ListNode* mid=findmid(head);
+        int len=length(head);
+        // odd from mid next
+        ListNode* finalmid=NULL;
+        if(len%2!=0){
+            finalmid=mid->next;
+        }
         
+        //even from mid
+         else{
+            finalmid=mid;
+         }
+        //reverse from mid
+auto reverse=reverseLinkedList(finalmid);
+         ListNode* temp=head;
+         while( temp!=NULL && reverse!=NULL ){
+            if(temp->val!=reverse->val){
+                return false;
+            }
+            temp=temp->next;
+           reverse=reverse->next;
+         }
+         return true;
     }
 };
