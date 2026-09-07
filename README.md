@@ -148,4 +148,20 @@
 | ------- |
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
