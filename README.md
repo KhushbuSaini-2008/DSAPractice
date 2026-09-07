@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
@@ -57,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0142-linked-list-cycle-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
