@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1572-matrix-diagonal-sum) |
 ## Dancing Links
 |  |
@@ -151,6 +153,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
