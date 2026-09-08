@@ -52,6 +52,7 @@
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -158,12 +159,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -174,4 +177,5 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
