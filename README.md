@@ -10,6 +10,7 @@
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1572-matrix-diagonal-sum) |
 ## Dancing Links
 |  |
@@ -186,4 +188,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
