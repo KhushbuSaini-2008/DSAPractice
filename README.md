@@ -133,6 +133,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0054-spiral-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Lifting
 |  |
 | ------- |
