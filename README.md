@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
@@ -236,4 +237,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
