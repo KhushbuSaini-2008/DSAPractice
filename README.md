@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1572-matrix-diagonal-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -56,6 +57,7 @@
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
