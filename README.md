@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0142-linked-list-cycle-ii) |
@@ -89,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
