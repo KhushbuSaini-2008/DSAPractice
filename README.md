@@ -21,6 +21,7 @@
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1572-matrix-diagonal-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -178,6 +179,7 @@
 | [0048-rotate-image](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0202-happy-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
