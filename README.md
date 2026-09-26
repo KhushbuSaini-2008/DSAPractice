@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0015-3sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0015-3sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3731-find-missing-elements) |
