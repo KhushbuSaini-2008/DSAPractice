@@ -18,18 +18,33 @@ public:
     //     dp[n]=ans;
     //     return dp[n];
     // }
-      int climbStairstabulation(int n){
+    //   int climbStairstabulation(int n){
+    //     if(n==1||n==2){
+    //         return n;
+    //     }
+    //     vector<int>dp(n+1,-1);
+    //    dp[1]=1;
+    //    dp[2]=2;
+    //    for(int i=3;i<=n;i++){
+    //     int ans=dp[i-1]+dp[i-2];
+    //     dp[i]=ans;
+    //    }
+    //     return dp[n];
+    // }
+    int climbStairstabulation(int n){
         if(n==1||n==2){
             return n;
         }
-        vector<int>dp(n+1,-1);
-       dp[1]=1;
-       dp[2]=2;
+        
+       int prev2=1;
+       int prev1=2;
+       int curr=-1;
        for(int i=3;i<=n;i++){
-        int ans=dp[i-1]+dp[i-2];
-        dp[i]=ans;
+       curr=prev2+prev1;
+      prev2=prev1;
+      prev1=curr;
        }
-        return dp[n];
+       return curr;
     }
     
     int climbStairs(int n) {
