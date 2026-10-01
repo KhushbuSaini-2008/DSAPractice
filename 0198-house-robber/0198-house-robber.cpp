@@ -6,15 +6,17 @@ public:
             return nums[0]; 
         }
       
-        vector<int>dp(n+1,-1);
-        dp[0]=nums[0];
-        dp[1]=max(nums[0],nums[1]);
+        
+        int prev2=nums[0];
+        int prev1=max(nums[0],nums[1]);
+        int curr=max(nums[n-1],nums[n-2]);
         for(int i=2;i<n;i++){
-            int ghar1=dp[i-2]+nums[i];
-            int ghar2=dp[i-1];
-            dp[i]=max(ghar1,ghar2);
-
+            int ghar1=prev2+nums[i];
+            int ghar2=prev1;
+            curr=max(ghar1,ghar2);
+            prev2=prev1;
+            prev1=curr;
         }
-return dp[n-1];
+return curr;
     }
 };
