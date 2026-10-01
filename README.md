@@ -185,6 +185,7 @@
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1137-n-th-tribonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -264,9 +265,11 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
