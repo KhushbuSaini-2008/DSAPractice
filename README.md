@@ -31,6 +31,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
@@ -265,6 +268,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0509-fibonacci-number) |
