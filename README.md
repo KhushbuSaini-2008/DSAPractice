@@ -81,6 +81,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -153,6 +154,7 @@
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -163,6 +165,7 @@
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
@@ -200,6 +203,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
@@ -276,6 +280,7 @@
 | [0070-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
