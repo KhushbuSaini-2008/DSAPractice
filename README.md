@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -181,6 +182,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -293,4 +295,12 @@
 | [0070-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1137-n-th-tribonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
