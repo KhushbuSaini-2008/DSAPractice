@@ -21,6 +21,7 @@
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1572-matrix-diagonal-sum) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
