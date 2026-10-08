@@ -39,6 +39,7 @@
 | [0051-n-queens](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0020-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -240,6 +242,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
