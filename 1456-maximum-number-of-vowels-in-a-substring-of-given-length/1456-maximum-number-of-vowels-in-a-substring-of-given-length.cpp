@@ -4,7 +4,7 @@ public:
         int low = 0;
         int high = k - 1;
         int count = 0;
-        int result = 0;
+        int result = INT_MIN;
 
        
         for (int i = low; i <= high; i++) {
@@ -14,11 +14,11 @@ public:
             }
         }
 
-        result = count;
-
+        
     
         while (high  < s.length()) {
 
+  result=max(result,count);
   
             if (s[low] == 'a' || s[low] == 'e' || s[low] == 'i' ||
                 s[low] == 'o' || s[low] == 'u') {
@@ -34,7 +34,7 @@ public:
                 count++;
             }
 
-            result = max(result, count);
+          
         }
 
         return result;
