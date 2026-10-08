@@ -6,7 +6,7 @@ public:
         int count = 0;
         int result = 0;
 
-        // Count vowels in first window
+       
         for (int i = low; i <= high; i++) {
             if (s[i] == 'a' || s[i] == 'e' || s[i] == 'i' ||
                 s[i] == 'o' || s[i] == 'u') {
@@ -16,10 +16,10 @@ public:
 
         result = count;
 
-        // Slide the window
-        while (high + 1 < s.length()) {
+    
+        while (high  < s.length()) {
 
-            // Remove the character leaving the window
+  
             if (s[low] == 'a' || s[low] == 'e' || s[low] == 'i' ||
                 s[low] == 'o' || s[low] == 'u') {
                 count--;
@@ -28,7 +28,7 @@ public:
             low++;
             high++;
 
-            // Add the new character entering the window
+        
             if (s[high] == 'a' || s[high] == 'e' || s[high] == 'i' ||
                 s[high] == 'o' || s[high] == 'u') {
                 count++;
