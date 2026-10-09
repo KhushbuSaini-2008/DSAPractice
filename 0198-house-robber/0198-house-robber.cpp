@@ -26,16 +26,20 @@ public:
 // }
 int solveusingtabulation(vector<int>&nums,int index){
     int n=nums.size();
-    vector<int>dp(n+2,-1);
-    dp[n]=0;
-    dp[n+1]=0;
+   
+    int next1=0;
+    int next2=0;
+    int curr=-1;
+
     for(int i=n-1;i>=0;i--){
-    int include=nums[i]+dp[i+2];
-    int exclude=0+dp[i+1];
-    dp[i]=max(include,exclude);
+    int include=nums[i]+next2;
+    int exclude=0+next1;
+    curr=max(include,exclude);
+    next2=next1;
+    next1=curr;
    
     }
-    return dp[index];
+    return curr;
 }
     int rob(vector<int>& nums) {
         int n=nums.size();
