@@ -27,6 +27,7 @@
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1572-matrix-diagonal-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +112,7 @@
 | [0047-permutations-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -122,6 +124,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
 | ------- |
@@ -313,6 +317,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
