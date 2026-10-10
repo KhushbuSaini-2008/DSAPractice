@@ -93,6 +93,7 @@
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
@@ -183,6 +185,7 @@
 | [0856-score-of-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
