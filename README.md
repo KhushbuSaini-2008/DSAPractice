@@ -28,6 +28,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1572-matrix-diagonal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -326,4 +327,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
