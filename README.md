@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
@@ -73,6 +74,7 @@
 | [0088-merge-sorted-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0234-palindrome-linked-list) |
@@ -324,6 +326,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
