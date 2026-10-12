@@ -103,6 +103,7 @@
 | [0141-linked-list-cycle](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -167,6 +168,7 @@
 | [0022-generate-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0301-remove-invalid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
