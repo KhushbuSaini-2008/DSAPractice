@@ -44,6 +44,24 @@ int solveusingmem(int n,int k,int target,vector<vector<long long int>>&dp){
          dp[n][target]=ans;
     return ans;
 }
+int solveuingtab(int n, int k, int target){
+    vector<vector<long long int>>dp(n+1,vector<long long  int>(target+1,0));
+    dp[0][0]=1;
+    long long int ans=0;
+    for(int a=1;a<=n;a++){
+        for(int t=1;t<=target;t++){
+
+            for(int i=1;i<=k;i++){
+        if((target-i)>=0)
+         ans=(ans%mod+dp[n-1][target-i]%mod)%mod;
+    }
+         dp[n][target]=ans;
+
+        }
+    }
+    return dp[n][target];
+    
+}
     int numRollsToTarget(int n, int k, int target) {
         vector<vector<long long int>>dp(n+1,vector<long long  int>(target+1,-1));
         int ans=solveusingmem(n,k,target,dp);
