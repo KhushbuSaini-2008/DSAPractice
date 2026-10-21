@@ -319,6 +319,7 @@
 | [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1137-n-th-tribonacci-number) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Memoization
 |  |
 | ------- |
