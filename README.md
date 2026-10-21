@@ -22,6 +22,7 @@
 | [0213-house-robber-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0746-min-cost-climbing-stairs) |
@@ -313,6 +314,7 @@
 | [0070-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0746-min-cost-climbing-stairs) |
@@ -328,6 +330,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
@@ -337,4 +340,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
