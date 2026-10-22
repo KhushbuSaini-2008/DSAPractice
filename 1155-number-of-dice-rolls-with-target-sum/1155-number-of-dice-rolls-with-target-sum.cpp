@@ -63,13 +63,34 @@ int solveusingTab(int n,int k,int target){
             long long int ans=0;
     for(int i=1;i<=k;i++){
         if(t-i>=0)
-        ans=(ans%mod+dp[a-1][t]%mod)%mod;
+        ans=(ans%mod+dp[a-1][t-1]%mod)%mod;
     }
         dp[a][t]=ans;
 
         }
     }
     return dp[n][target];
+
+}
+int solveusingSO(int n,int k,int target){
+    
+    // vector<vector<int>>dp(n+1,vector<int>(target+1,0));
+    vector<int>prev(target+1,0);
+    vector<int>curr(target+1,0);
+   prev[0]=1;
+    for(int a=1;a<=n;a++){
+        for(int t=1;t<=target;t++){
+            long long int ans=0;
+    for(int i=1;i<=k;i++){
+        if(t-i>=0)
+        ans=(ans%mod+prev[t-1]%mod)%mod;
+    }
+        curr[t]=ans;
+
+        }
+        prev=curr;
+    }
+    return curr[target];
 
 }
     int numRollsToTarget(int n, int k, int target) {
