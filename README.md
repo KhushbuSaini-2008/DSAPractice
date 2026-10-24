@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0746-min-cost-climbing-stairs) |
@@ -318,6 +319,7 @@
 | [0213-house-robber-ii](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0746-min-cost-climbing-stairs) |
@@ -352,8 +354,13 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/KhushbuSaini-2008/DSAPractice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
