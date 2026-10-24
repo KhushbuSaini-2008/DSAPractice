@@ -21,6 +21,24 @@ bool solve(vector<int>&nums,int index,int target,vector<vector<int>>&dp){
    dp[index][target]=ans;
    return ans;
 }
+bool solveTb(vector<int>&nums,int index,int target){
+    int n=nums.size();
+    vector<vector<int>>dp(n+1,vector<int>(target+1,0));
+    dp[index][0]=1;
+    for(int i=0;i<=n;i++){
+        for(int t=0;t<=target;t--){
+    bool ans=false;
+    bool include=dp[i+1][t-nums[i]];
+    bool exclude=dp[i+1][t];
+    
+    ans= (include||exclude);
+ 
+   dp[i][t]=ans;
+
+        }
+    }
+    return dp[0][target];
+}
     bool canPartition(vector<int>& nums) {
         int sum=0;
         sum=accumulate(nums.begin(),nums.end(),0);
