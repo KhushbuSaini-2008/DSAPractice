@@ -21,29 +21,32 @@ bool solve(vector<int>&nums,int index,int target,vector<vector<int>>&dp){
    dp[index][target]=ans;
    return ans;
 }
-bool solveTb(vector<int>&nums,int index,int target){
+bool solveTbso(vector<int>&nums,int index,int target){
     int n=nums.size();
-    vector<vector<int>>dp(n+1,vector<int>(target+1,0));
+    // vector<vector<int>>dp(n+1,vector<int>(target+1,0));
+    vector<int>curr(target+1,0);
+    vector<int>next(target+1,0);
     for(int i=0;i<n;i++){
-    dp[i][0]=1;
+    curr[0]=1;
     }
-    dp[n][target]=0;
+    curr[target]=0;
     for(int i=n-1;i>=0;i--){
         for(int t=1;t<=target;t++){
     bool ans=false;
     bool include=false;
     if(t-nums[i]>=0){
-    include=dp[i+1][t-nums[i]];
+    include=next[t-nums[i]];
     }
-    bool exclude=dp[i+1][t];
+    bool exclude=next[t];
     
-   dp[i][t]=(include||exclude);
+   curr[t]=(include||exclude);
  
   
 
         }
+        next=curr;
     }
-    return dp[0][target];
+    return curr[target];
 }
     bool canPartition(vector<int>& nums) {
         int sum=0;
@@ -55,7 +58,7 @@ bool solveTb(vector<int>&nums,int index,int target){
         int target=sum>>1;
         vector<vector<int>>dp(n+1,vector<int>(target+1,-1));
         int index=0;
-        bool ans=solveTb(nums,index,target);
+        bool ans=solveTbso(nums,index,target);
         return ans;
         
     }
